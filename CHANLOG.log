@@ -1,0 +1,6 @@
+# Changelog
+
+0.3.0
+##Added
+Implement a component, `<Navigation/>` for the templates : index.md, blog.md, about.md
+
